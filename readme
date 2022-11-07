@@ -1,0 +1,7 @@
+gperftools地址
+https://github.com/gperftools/gperftools
+
+tcmalloc:与glibc中的malloc函数相比，tcmalloc的内存分配效率要远高于malloc，可以提高高并发的性能 ，降低系统的负载
+cpu profiler:对程序中各个函数使用的CPU情况进行监控探测
+heap checker:对程序是否发生内存泄露进行检测
+heap profiler:对程序中申请的内存区域进行监控
